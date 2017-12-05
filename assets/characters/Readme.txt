@@ -1,0 +1,1 @@
+This is the folder where sprites and spritesheets for chracters will go.

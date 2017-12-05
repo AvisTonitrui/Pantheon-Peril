@@ -1,0 +1,1 @@
+This is the folder for all things for the environments, such as tiles and backgrounds, to go.

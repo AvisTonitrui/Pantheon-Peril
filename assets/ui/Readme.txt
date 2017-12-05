@@ -1,0 +1,1 @@
+This is the folder for all sprites and spritesheets related to the UI.

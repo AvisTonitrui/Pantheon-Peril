@@ -1,0 +1,1 @@
+This is the folder for things related to level design, namely notes.

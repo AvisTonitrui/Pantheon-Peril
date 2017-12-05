@@ -1,0 +1,1 @@
+This is the folder for all assets, including level design notes and sprites.
