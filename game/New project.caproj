@@ -13,6 +13,7 @@
         <plugin author="Scirra" id="Keyboard" version="1">Keyboard</plugin>
         <plugin author="Scirra" id="Mouse" version="1">Mouse</plugin>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
+        <plugin author="Scirra" id="Text" version="1">Text</plugin>
         <plugin author="Scirra" id="Tilemap" version="1">Tilemap</plugin>
     </used-plugins>
     <used-behaviors>
@@ -272,6 +273,18 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\TJ\Downloads\Hermes.png" />
                 </animation>
             </animation-folder>
+        </object-type>
+        <object-type name="Text" sid="170857203034108">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="Text2" sid="132772527091245">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="Text3" sid="652591587852996">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="Text4" sid="243047695761910">
+            <plugin id="Text" />
         </object-type>
     </object-folder>
     <families />
